@@ -1,39 +1,29 @@
 # SALES-PERFORMANCE-DASHBOARD
+📊 Sales Performance Dashboard (Excel)
 
-📊 Sales Performance Dashboard 
 
-🔍 Project Overview
+<img width="1695" height="1096" alt="image" src="https://github.com/user-attachments/assets/0736a25a-4b65-4c3e-8295-b7fe0a10a7a7" />
 
-This project focuses on building an interactive Sales Performance Dashboard in Microsoft Excel using Pivot Tables, Slicers, and Macros.
-The dashboard provides dynamic insights into sales data and allows users to filter and analyze performance across multiple dimensions.
 
-This project was created as part of an Excel Macro-Enabled Dashboard assignment.
+An interactive, macro-enabled Excel dashboard built to analyze and visualize sales performance across multiple business dimensions. This project demonstrates my skills in data analysis, Excel automation, and dashboard design.
 
-🎯 Objective
+🔍 Project Objective
 
-To design a clean, interactive, and user-friendly dashboard that enables users to:
+Analyze sales trends and patterns
 
-Analyze sales trends
+Compare sales performance by region and product category
 
-Compare performance across regions and products
+Enable dynamic data exploration using slicers
 
-Dynamically filter data using slicers
-
-Reset filters instantly using macros
+Improve usability with a one-click reset macro
 
 📁 Dataset
 
-Source File: Raw Data.xlsx
+Raw Data.xlsx
 
-Data formatted as an Excel Table to ensure:
+Data structured as an Excel Table to support dynamic Pivot Tables and Slicers
 
-Dynamic pivot updates
-
-Proper slicer functionality
-
-Accurate analysis
-
-🛠 Tools & Features Used
+🛠️ Skills & Tools Used
 
 Microsoft Excel
 
@@ -41,48 +31,32 @@ Pivot Tables & Pivot Charts
 
 Slicers (Region, Product Category, Month)
 
-Macros (Reset Slicers & Refresh Data)
+VBA Macros (reset slicers & refresh pivots)
 
-Excel Dashboard Design Techniques
+Dashboard design & usability optimization
 
-📌 Key Dashboard Components
-1️⃣ Pivot Table Analysis
+📈 Key Business Insights
 
-The dashboard includes multiple pivot-based insights:
+Regional sales performance comparison
 
-Sales by Region – compares sales across Europe, North America, and Pacific
+Product category and subcategory contribution to revenue
 
-Sales by Product Category & Subcategory – analyzes Bike and Car-related products
+Monthly sales trend analysis
 
-Monthly Sales Trend – identifies seasonality and sales patterns over time
+Customer segmentation by gender, occupation, and education
 
-Sales by Gender – compares customer demographics
+⚙️ Automation & Usability
 
-Sales by Occupation – distribution across job types
+Integrated RESET button using VBA to clear all slicer selections and refresh pivot tables instantly
 
-Sales by Education – education-level based sales analysis
+🎓 Learning Outcome
 
-2️⃣ Interactive Slicers
+Hands-on experience with Excel automation
 
-Slicers allow real-time filtering by:
+Improved understanding of business-driven data analysis
 
-Region
-
-Product Category
-
-Month
-
-All slicers are connected to relevant pivot tables for synchronized filtering.
-
-3️⃣ Macro Automation
-
-A RESET button is implemented using VBA to:
-
-Clear all slicer selections
-
-Refresh all pivot tables
-
-Improve dashboard usability and user experience
+Practical exposure to interactive dashboard development
 
 
-<img width="1695" height="1096" alt="image" src="https://github.com/user-attachments/assets/0736a25a-4b65-4c3e-8295-b7fe0a10a7a7" />
+
+
